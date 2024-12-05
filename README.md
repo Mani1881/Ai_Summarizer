@@ -70,10 +70,10 @@ Visit `http://localhost:3000` in your browser to start using the web application
 
 ### Backend
 1. **Receive Request**: The backend receives the text from the frontend via the `/summarize` endpoint.
-2. **API Call**: The backend makes an authenticated request to the Hugging Face Inference API.
+2. **API Call**: The backend makes an authenticated request to the Hugging Face Inference API.![Screenshot 2024-12-05 092837](https://github.com/user-attachments/assets/ad80d064-5944-4b70-a613-4c5cb6f920ce)
 3. **Process Response**: The summarized text is returned from the API.
 4. **Send Response**: The backend sends the summarized text back to the frontend.
-5. **Display Summary**: The frontend displays the summarized text to the user.
+5. **Display Summary**: The frontend displays the summarized text to the user. ![Screenshot 2024-12-05 092914](https://github.com/user-attachments/assets/934185d1-8170-4fcc-a81e-1ad29458b318)
 
 ## License
 
