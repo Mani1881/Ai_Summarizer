@@ -51,13 +51,10 @@ HUGGINGFACE_API_KEY=<your-api-key>
 
 ## Running the Application
 
-### 1. Start the backend server
+###  Start the backend server
 ```bash
 node index.js
 ```
-
-### 2. Open the application
-Visit `http://localhost:3000` in your browser to start using the web application.
 
 ## Project Flow
 
